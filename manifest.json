@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0",
+  "format": "html",
+  "metadata": {
+    "title": "Lung Cancer — Seminar, Group 11 (A)",
+    "description": "Undergraduate nursing seminar on lung cancer with verified, referenced content",
+    "author": "Group 11 (A)"
+  },
+  "canvas": {"width": 1920, "height": 1080},
+  "playlist": [
+    "cover.html",
+    "introduction.html",
+    "definition.html",
+    "risk-factors.html",
+    "pathophysiology.html",
+    "classification.html",
+    "stages.html",
+    "signs-symptoms.html",
+    "complications.html",
+    "diagnosis.html",
+    "medical-management.html",
+    "palliative-evidence.html",
+    "nursing-process.html",
+    "nursing-interventions.html",
+    "prevention.html",
+    "screening.html",
+    "key-takeaways.html",
+    "references-1.html",
+    "references-2.html"
+  ]
+}
